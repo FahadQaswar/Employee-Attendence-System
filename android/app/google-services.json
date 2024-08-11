@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967740303864",
+    "project_id": "appemployee-a3f3b",
+    "storage_bucket": "appemployee-a3f3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967740303864:android:ce56725976bdce1ab38e0d",
+        "android_client_info": {
+          "package_name": "com.fahad.appattendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXRCs_2oAOK8TBV3m_UnxzZ0cWn86snPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
